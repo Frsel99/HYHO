@@ -1,4 +1,4 @@
-# HYHO - Henry <!--Name-->
+# HYHO <!--Name-->
 
 HYHO was the first attempt of the final project of SoyHenry Bootcamp.
 
